@@ -1,7 +1,7 @@
-##Smart Comment - Расширение для Microsoft Visual Studio, которое создает комментарий по рабочему шаблону.
+**Smart Comment** - An extension for Microsoft Visual Studio that creates a comment based on a template.  
 
-Принцип работы заключается в генерации комментария по шаблону "// Имя_файла, текущая_дата" при нажатии кнопки генерации комментария. Активируется нажатием комбинации клавиш "ctrl+K, ctrl+1".
+The principle of the extension operation is to generate a comment according to the template "// File_name, current_date" when the extension is called. Activated by pressing the key combination "ctrl+K, ctrl+1".  
 
-Все действительно так просто!
+It is really simple!  
 
-В репозитории находится исходный код расширения, который можно запустить в Visual Studio
+**Repository contains extension source code that can be run in Microsoft Visual Studio**
